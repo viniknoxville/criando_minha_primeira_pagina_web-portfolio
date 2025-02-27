@@ -1,4 +1,4 @@
-# ![Banner do Projeto](Portfolio/assets/one.png)
+# ![Banner do Projeto](assets/one.png)
 
 
 **Este repositório contém um projeto desenvolvido durante os cursos de HTML e CSS da [Alura](https://www.alura.com.br/) em parceria com a Oracle, no programa [ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/). O projeto consiste em um portfólio pessoal ilustrativo, criado para aplicar e praticar conceitos aprendidos, como estruturação de páginas, estilização com CSS, layout responsivo e publicação online.**
@@ -20,7 +20,7 @@
 
 ## 🔗 Acesse o Projeto  
 
-🖥️ **Veja o projeto online**: [Clique aqui para acessar](SEU-LINK-DO-PROJETO-AQUI)  
+🖥️ **Veja o projeto online**: [Clique aqui para acessar](https://criando-minha-primeira-pagina-web-portfolio.vercel.app/about.html)  
 
-![GIF do Amigo Secreto](Portfolio/assets/portfolio.gif)
+![GIF do Amigo Secreto](assets/portfolio.gif)
 
