@@ -101,8 +101,8 @@ body {
     font-family: var(--fonte-secundaria);
 }
 
-.apresentacao__links__link:hover {
-    background-color: var(--cor-hover);
+.apresentacao__links__navegacao:hover {
+    background-color: var(--cor-terciaria);
 
 }
 
