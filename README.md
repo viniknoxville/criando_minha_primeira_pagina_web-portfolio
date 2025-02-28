@@ -20,7 +20,7 @@
 
 ## 🔗 Acesse o Projeto  
 
-🖥️ **Veja o projeto online**: [Clique aqui para acessar](https://criando-minha-primeira-pagina-web-portfolio.vercel.app/about.html)  
+🖥️ **Veja o projeto online**: [Clique aqui para acessar](https://criando-minha-primeira-pagina-web-portfolio.vercel.app/)  
 
 ![GIF do Amigo Secreto](assets/portfolio.gif)
 
